@@ -23,6 +23,13 @@
  - Scala
  - tmux
  - and always new algorithms and data structures
+ 
 ### Other links
+ - https://vscala.dev/
+ - https://www.linkedin.com/in/vscala
+ - https://leetcode.com/vscala/
+ - https://www.hackerrank.com/vscala
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vscala)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vscala)](https://github.com/anuraghazra/github-readme-stats) <br>
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=vscala)
