@@ -2,6 +2,7 @@
  - TicTacToe AI, Python, https://github.com/vscala/Random-Day-Projects/tree/main/TicTacToe
  - Mancala Game, Python, https://github.com/vscala/Random-Day-Projects/tree/main/Mancala
  - Scrabble Word Finder, Python, https://github.com/vscala/Random-Day-Projects/tree/main/Scrabble%20Words
+ - Spotify Remix Skipper, https://github.com/vscala/Random-Day-Projects/tree/main/Spotify-Remix-Skipper
  - Sudoku Solver / Valid Board Checker, Python/C++, https://github.com/vscala/Sudoku
  - Tuck (Chrome extension to save/load webpages), JavaScript, https://github.com/vscala/Tuck
  - Stock Ticker and Moving Average Calculator, C++, https://github.com/vscala/Stock-Ticker
@@ -10,7 +11,6 @@
  - SGPvP (Minecraft Java Plugin), Java, private
 
 ### Current projects
- - Spotify Remix Skipper, https://github.com/vscala/Random-Day-Projects/tree/main/Spotify-Remix-Skipper
  - Productivity Monitor (tool for monitoring application usage), Python, https://github.com/vscala/Productivity-Manager
  - Python Code Snippets (useful python code), https://github.com/vscala/Python-Snippets
  - Language Learning (small programs to practice new languages), https://github.com/vscala/Language-Learning
