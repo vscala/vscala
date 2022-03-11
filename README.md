@@ -21,7 +21,7 @@
 ### Currently learning
  - GoLang
  - Scala
- - tmux
+ - tmux / vim
  - and always new algorithms and data structures
  
 ### Other links
