@@ -11,6 +11,7 @@
  - SGPvP (Minecraft Java Plugin), Java, private
 
 ### Current projects
+ - Google Profile Swapper (firefox extension), JavaScript, https://github.com/vscala/Firefox-Google-Profiles
  - Productivity Monitor (tool for monitoring application usage), Python, https://github.com/vscala/Productivity-Manager
  - Python Code Snippets (useful python code), https://github.com/vscala/Python-Snippets
  - Language Learning (small programs to practice new languages), https://github.com/vscala/Language-Learning
