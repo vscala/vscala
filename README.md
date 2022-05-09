@@ -8,10 +8,10 @@
  - Stock Ticker and Moving Average Calculator, C++, https://github.com/vscala/Stock-Ticker
  - Autoclicker, Python, https://github.com/vscala/Autoclicker
  - Taubot (Minecraft Exp Bot), NodeJs, https://github.com/vscala/Taubot
+ - UNCC Movie App (senior capstone project), ExpressJS, https://github.com/vscala/ITSC4155_Movies_App
  - SGPvP (Minecraft Java Plugin), Java, private
 
 ### Current projects
- - UNCC Movie App (senior capstone project), ExpressJS, https://github.com/vscala/ITSC4155_Movies_App
  - Google Profile Swapper (firefox extension), JavaScript, https://github.com/vscala/Firefox-Google-Profiles
  - Discord Spellcast Word Finder, Python, https://github.com/vscala/Spellcast-Word-Finder
  - Productivity Monitor (tool for monitoring application usage), Python, https://github.com/vscala/Productivity-Manager
